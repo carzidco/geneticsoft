@@ -185,7 +185,7 @@ PORTFOLIO SECTION
 .commentcount a{float: right; color: #c3c3c3;}
 
 /*================================
-TESTIMONIAL SECTION
+TEAM SECTION
 ================================*/
 
 .clientsphoto img{
@@ -198,6 +198,28 @@ TESTIMONIAL SECTION
 .clientsphoto img:hover{
     border-radius: 15%;
 }
+
+.carlos{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    background: url(../img/carlos_grey.png) no-repeat;
+}
+
+.carlos:hover{
+    border-radius: 15%;
+    background: url(../img/carlos.png) no-repeat;
+}
+
+/*.carlos img{
+    background: url(../img/carlos_grey.png);
+}
+
+.carlos img:hover{
+    background: url(../img/carlos.png);
+}*/
 
 blockquote{
     margin: 0;
