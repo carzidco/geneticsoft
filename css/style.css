@@ -79,7 +79,7 @@ HERO AREA
     color: #fff;
     text-align: center;
     background: url(../img/trianglify-background.png)no-repeat; /*your background image*/
-    max-height: 880px;
+    max-height: 400px;
     overflow: hidden;
 }
 
@@ -215,6 +215,20 @@ TEAM SECTION
 .carlos:hover{
     border-radius: 15%;
     background: url(../img/carlos.png) no-repeat;
+}
+
+.esteban{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    background: url(../img/esteban_grey.png) no-repeat;
+}
+
+.esteban:hover{
+    border-radius: 15%;
+    background: url(../img/esteban.png) no-repeat;
 }
 
 /*.carlos img{

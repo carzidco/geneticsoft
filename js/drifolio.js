@@ -94,6 +94,16 @@ $(function() {
         });
     });
 
+    $(".requiredfield").keyup(function() {
+      if($('#name').val() != '' && $('#email').val() != '' && $('#message').val() != '')
+      {
+        $("#submitsend").attr('data-toggle','modal');
+      }
+      else{
+        $("#submitsend").attr('data-toggle','');
+      }
+    });
+
 });
   }(jQuery));
 
