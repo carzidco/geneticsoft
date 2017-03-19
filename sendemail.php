@@ -1,5 +1,5 @@
 <?php
-$to = "carzidco@gmail.com";
+$to = "carzidco@gmail.com; info@geneticsoftware.net";
 $subject = "Info";
 $name = $_POST['name'];
 $email = $_POST['email'];
@@ -23,6 +23,6 @@ $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 $headers .= 'From: <info@geneticsoftware.net>' . "\r\n";
 
 mail($to,$subject,$body,$headers);
-echo "<script>alert('Your message was sent successfully');</script>";
+echo "<script>alert('Tu mensaje ha sido enviado satisfactoriamente, Gracias!');</script>";
 header("Location: index.html#contact-page");
 ?>
