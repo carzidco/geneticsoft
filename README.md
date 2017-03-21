@@ -1,1 +1,1 @@
-<h1>Genetic software</h1>
+<h1>Genetic Software</h1>
