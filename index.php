@@ -8,7 +8,7 @@
     <meta name="description" content="A free Bootstrap powerd HTML template exclusively crafted for the super lazy designers like me who designed thousand of websites till today but never got a chance to build one himself.">
     <meta name="keywords" content="genetic, genetic software, software, programming, programacion, desarrollo de software, carlos cordoba, esteban elizondo, development, gen soft, genetic development, java, ruby, android, mobile, mobile development, applications, iphone development, ios, web enhancing, marketing, branding">
     <meta name="author" content="EvenFly Team">
-    <title>Genetic Software</title>
+    <title>Genetic Software Apps</title>
     <link rel="icon" href="img/gensoft.ico">
     <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-iphone-retina.png" />
@@ -211,7 +211,7 @@
         <!-- LEFT PART OF THE ABOUT SECTION -->
         <div class="col-md-6">
             <div class="row">
-                <h2 class="wow fadeInDown" data-wow-duration="2s">Somos...</h2>
+                <h2 class="wow fadeInDown" data-wow-duration="2s">Nosotros somos...</h2>
 
                 <h4 class="wow fadeInUp" data-wow-duration="3s">Más que una compañia, somos un grupo de creativos con un objetivo, hacer que las aplicaciones cobren vida.</h4>
 
