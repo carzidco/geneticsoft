@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A free Bootstrap powerd HTML template exclusively crafted for the super lazy designers like me who designed thousand of websites till today but never got a chance to build one himself.">
+    <meta name="description" content="Genetic Software, think your apps, we make them real. Genetic Software is a company who thnks on your weekness and transforms them into strengths.">
     <meta name="keywords" content="genetic, genetic software, software, programming, programacion, desarrollo de software, carlos cordoba, esteban elizondo, development, gen soft, genetic development, java, ruby, android, mobile, mobile development, applications, iphone development, ios, web enhancing, marketing, branding">
     <meta name="author" content="EvenFly Team">
     <title>Genetic Software Apps</title>
