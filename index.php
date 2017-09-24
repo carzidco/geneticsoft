@@ -180,7 +180,7 @@
                         <!--don't forget to replace my email address below with yours-->
                         <li><a href="#contact-page"><span class="btnicon icon-envelope-open"></span>Contacto</a></li>
                         <li><a href="index.php"><span class="btnicon flag-icon flag-icon-es flag-icon-squared"></span>ES</a></li>
-                        <li><a href="index_en.php"><span class="btnicon flag-icon flag-icon-us flag-icon-squared"></span>EN</a></li>
+                        <!--<li><a href="index_en.php"><span class="btnicon flag-icon flag-icon-us flag-icon-squared"></span>EN</a></li>-->
                     </ul>
 
                 </div>
@@ -449,7 +449,7 @@
                 <!-- FOOTER LINKS START -->
                 <ul>
                     <li><a href="#hero">Inicio</a></li>
-                    <li><a href="#about">Qué es Genetic?</a></li>
+                    <li><a href="#about">¿Qué es Genetic?</a></li>
                     <li><a href="#services">Servicios</a></li>
                     <!--<li><a href="#portfolio">Portfolio</a></li>-->
                     <li><a href="#ourteam">Nuestro equipo</a></li>
