@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="css/simple-line-icons.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Antic|Raleway:300">
     <link rel="stylesheet" href="css/flag-icon.css" />
+    <link rel="stylesheet" href="css/css/font-awesome.min.css" />
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -118,7 +119,11 @@
     <!-- Preloader -->
     <div id="preloader">
         <div id="status">
-            <div class="loadicon icon-diamond wow tada infinite" data-wow-duration="8s"></div>
+            <div class="loadicon wow tada infinite" data-wow-duration="1s">Hello</div>
+            <br>
+            <br>
+            <div class="loadicon wow tada infinite" data-wow-duration="1s">World</div>
+            <!-- <div class="loadicon icon-diamond wow tada infinite" data-wow-duration="8s"></div>-->
         </div>
     </div>
 
@@ -130,8 +135,12 @@
             <div class="container herocontent">
                 <h2 class="wow fadeInUp" data-wow-duration="2s">Genetic Software</h2>
                 <h4 class="wow fadeInDown" data-wow-duration="3s">
-                   Tienes una idea? Te treamos la posibilidad de realizarla, utilizamos la últimas tecnologías en software, tanto web como desarrollo en móviles(Android y iOS), nuestro equipo hará el software para tu necesidad.
-                   Más allá de una aplicación, maximizamos tu marca, tu empresa, utilizando todo alrededor para lograrlo.
+                  <p class="header-text">
+                     Más allá de una aplicación, maximizamos tu marca, tu empresa. Vivimos en la era de la digitalización absoluta.
+                  </p>
+                  <p class="header-text">
+                    Nosotros somos el puente que tu empresa necesita para mercadearse como se requiere en la actualidad.
+                  </p>
                 </h4>
             </div>
 
@@ -164,10 +173,10 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <!--YOUR NAVIGATION ITEMS STRAT BELOW-->
-                        <li><a href="#about"><span class="btnicon icon-user"></span>Qué es Genetic?</a></li>
-                        <li><a href="#services"><span class="btnicon icon-cup"></span>Servicios</a></li>
+                        <li><a href="#about"><span class="btnicon icon-user"></span>¿Qué es Genetic?</a></li>
+                        <li><a href="#services"><i class="fa fa-lightbulb-o" aria-hidden="true"></i> Servicios</a></li>
                         <!--<li><a href="#portfolio"><span class="btnicon icon-rocket"></span>Portfolio</a></li>-->
-                        <li><a href="#ourteam"><span class="btnicon icon-puzzle"></span>Nosotros</a></li>
+                        <li><a href="#ourteam"><i class="fa fa-users" aria-hidden="true"></i> Nosotros</a></li>
                         <!--don't forget to replace my email address below with yours-->
                         <li><a href="#contact-page"><span class="btnicon icon-envelope-open"></span>Contacto</a></li>
                         <li><a href="index.php"><span class="btnicon flag-icon flag-icon-es flag-icon-squared"></span>ES</a></li>
@@ -214,11 +223,8 @@
                 <h2 class="wow fadeInDown" data-wow-duration="2s">Nosotros somos...</h2>
 
                 <h4 class="wow fadeInUp" data-wow-duration="3s">Más que una compañia, somos un grupo de creativos con un objetivo, hacer que las aplicaciones cobren vida.</h4>
-
-                <p class="wow fadeInDown" data-wow-duration="3s">Tenemos las últimas tecnologías para ofrecer DSP(Desarrollo de Software Personalizado), podemos diseñar y desarrollar tu aplicación, hasta mejorar una existente. Dando la posibilidad de construir lo que sea.</p>
-
-
-                <p class="wow fadeInDown" data-wow-duration="3s">Genetic software garantiza una gran experiencia jamás vista.</p>
+                <p class="wow fadeInUp" data-wow-duration="3s">¿Tienes una idea? Te brindamos la posibilidad de realizarla, utilizamos la últimas tecnologías en software, tanto web como desarrollo en móviles (Android y iOS), nuestro equipo hará el software para tu necesidad.</p>
+                <!--<p class="wow fadeInUp" data-wow-duration="3s">Tenemos las últimas tecnologías para ofrecer DSP(Desarrollo de Software Personalizado), podemos diseñar y desarrollar tu aplicación, hasta mejorar una existente. Dando la posibilidad de construir lo que sea.</p>-->
 
                 <!--<a class="dribbble-follow-button wow bounce" href="http://dribbble.com/srizon">Follow</a>-->
             </div>
@@ -257,7 +263,7 @@
 
         <!-- SERVICE SECTION HEADING START -->
         <div class="sectionhead  row wow fadeInUp">
-            <span class="bigicon icon-cup "></span>
+            <i class="fa fa-lightbulb-o fa-5x" aria-hidden="true"></i>
             <h3>Lo que hacemos</h3>
             <hr class="separetor">
         </div>
@@ -326,9 +332,8 @@
 
     <div id="ourteam" class="container">
         <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
-            <span class="bigicon icon-puzzle"></span>
-            <h3>Quienes somos</h3>
-            <h4>Somo mas que desarrolladores, somos compañeros, familia con el mismo objetivo.</h4>
+            <i class="fa fa-users fa-5x" aria-hidden="true"></i>
+            <h3>Nuestro equipo</h3>
             <hr class="separetor">
         </div>
         <!-- TESTIMONIAL SECTIONHEAD END -->
@@ -493,10 +498,10 @@
 
             $("#typed").typed({
                 strings: ["<strong>Envíanos</strong> tus comentarios.",
-                    "<strong>Aclara</strong> tus dudas.",
-                    "Estamos ansiosos de <strong>resolverlas.</strong>",
-                    "<strong>Prueba</strong>!",
-                    "Porque es mas allá del <strong>software</strong>",
+                    "<strong>Aclaramos</strong> tus dudas.",
+                    "Estamos ansiosos de <strong>Resolverlas.</strong>",
+                    "¡<strong>Prueba</strong>!",
+                    "Porque es más allá del <strong>Software</strong>",
                     "Tu piensas, nosotros lo realizamos",
                     "<strong>Escríbenos</strong>!!!!"
                 ],

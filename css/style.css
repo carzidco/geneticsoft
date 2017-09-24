@@ -24,6 +24,10 @@ p{
     font-weight: lighter;
 }
 
+.header-text{
+  color: #fff;
+}
+
 
 /*================================
 DEFAULT STYLE & FORMATING
@@ -76,7 +80,7 @@ hr.separetor{
 HERO AREA
 ================================*/
 #hero{
-    color: #fff;
+    color: #fff !important;
     text-align: center;
     background: url(../img/trianglify-background.png)no-repeat; /*your background image*/
     max-height: 400px;
@@ -132,6 +136,20 @@ ABOUT SECTION
 .myapps li img{
     width: 30px;
 }
+
+/*================================
+DESCRIPTION SECTION
+================================*/
+#description{
+  padding-top: 100px;
+}
+
+.myapps{margin-top: 25px;}
+.myapps li{display: inline}
+.myapps li img{
+    width: 30px;
+}
+
 
 /*================================
 PORTFOLIO SECTION
@@ -245,7 +263,7 @@ blockquote{
     border: none;
 }
 
-blockquote p{   
+blockquote p{
     font-style: italic;
     font-size: 14px;
 }
@@ -327,7 +345,7 @@ FOLLOW BUTTON
     color: #333;
 }
 
-.dribbble-follow-button .label:active {            
+.dribbble-follow-button .label:active {
      box-shadow: 0 1px 5px rgba(0,0,0,.15) inset;
 }
 
@@ -358,4 +376,3 @@ FOLLOW BUTTON
     margin-left: -3px;
     border-right-color: white;
 }
-
