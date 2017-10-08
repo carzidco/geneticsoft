@@ -478,10 +478,10 @@
     <!-- FOOTER END -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/jquery-latest.min.js"></script>
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
     <!--Other necessary scripts-->
     <script src="js/jquery.nicescroll.min.js"></script>
